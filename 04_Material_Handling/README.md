@@ -72,3 +72,20 @@ Supporting materials include:
 
 **Course:** SCLM 429 – Transportation and Logistics Management  
 **Project:** Mekong KVD – Group Brainy
+
+---
+
+## 8. Project Evidence
+
+### Evidence 01: Protective Packaging and Pallet Configuration
+
+![Protective Packaging](protective-packaging-pallet-configuration.png)
+
+### Evidence 02: End-to-End Warehouse Handling Process
+
+![Warehouse Handling](warehouse-handling-process.png)
+
+### Evidence 03: Safe Loading and Transit Damage Prevention
+
+![Safe Loading](safe-loading-transit-damage-prevention.png)
+
