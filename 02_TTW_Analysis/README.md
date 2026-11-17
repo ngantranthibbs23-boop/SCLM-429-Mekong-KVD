@@ -65,3 +65,17 @@ Supporting calculation tables, transportation data, and analysis results will be
 
 **Course:** SCLM 429 – Transportation and Logistics Management  
 **Project:** Mekong KVD – Group Brainy
+
+---
+
+## 9. Project Evidence
+
+### Evidence 01: Total Transportation Workload Calculation
+
+This table presents the transportation workload analysis for 15 B2B partners across three candidate industrial parks.
+
+It includes weekly delivery volumes, transportation distances, and the calculated Total Transportation Workload (TTW).
+
+The results are used to compare transportation workload and support the Mega Hub location selection.
+
+![TTW Calculation and Results](ttw-calculation-and-results.png)
