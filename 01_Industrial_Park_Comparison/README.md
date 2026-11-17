@@ -71,3 +71,21 @@ Supporting materials will be provided in this folder:
 
 **Course:** SCLM 429 – Transportation and Logistics Management  
 **Project:** Mekong KVD – Group Brainy
+
+---
+
+## 8. Project Evidence
+
+### Evidence 01: Weighted Scoring Model
+
+The weighted scoring model compares three candidate industrial parks based on six evaluation criteria.
+
+![Weighted Scoring Model](weighted-scoring-model.png)
+
+### Evidence 02: Industrial Park Location Map
+
+The map illustrates the locations of the three candidate industrial parks in relation to the Center of Gravity (COG) point.
+
+![Industrial Park Location Map](industrial-park-location-map.png)
+
+---
