@@ -98,3 +98,26 @@ Supporting materials will include:
 
 **Course:** SCLM 429 – Transportation and Logistics Management  
 **Project:** Mekong KVD – Group Brainy
+---
+
+## 10. Project Evidence
+
+### Evidence 01: Multichannel Fulfillment
+
+![Multichannel](multichannel-fulfillment.png)
+
+### Evidence 02: Omnichannel Fulfillment
+
+![Omnichannel](omnichannel-fulfillment.png)
+
+### Evidence 03: Phase 1 Network Design
+
+![Partner Roles](phase1-partner-roles-and-fulfillment.png)
+
+### Evidence 04: Order Fulfillment and Inventory Routing
+
+![Order Routing](phase1-order-fulfillment-routing.png)
+
+### Evidence 05: Contribution Margin Analysis
+
+![Contribution Margin](omnichannel-contribution-margin.png)
