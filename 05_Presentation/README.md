@@ -34,9 +34,6 @@ Key activities included:
 - Supply Chain Knowledge
 - Teamwork
 
-## 4. Project Evidence
-
-Selected slides from the final group presentation demonstrate how project information was organized and communicated visually.
 
 **Course:** SCLM 429 – Transportation and Logistics Management  
 **Project:** Mekong KVD – Group Brainy
