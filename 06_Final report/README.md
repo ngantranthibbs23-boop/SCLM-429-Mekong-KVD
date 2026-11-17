@@ -30,7 +30,6 @@ The project aims to evaluate Mekong KVD's logistics operations and propose impro
 
 **Project:** Mekong KVD
 
-[View Full Final Report (PDF)](Group-Brainy-Final-Report.pdf)
 
 ## 5. My Contribution
 
